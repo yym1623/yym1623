@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungMinYoon&fontSize=50" />  
 </p>
 
-<h3 align="center">description</h3>
+<h3 align="center">🧸 description 🧸</h3>
 <li align="center">
   Hello, I have worked towards the front end and am currently studying the front end and I
   I like both frontend and backend
@@ -48,6 +48,18 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhenfla0312&show_icons=true&theme=radical) -->
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yym1623)](https://solved.ac/yym1623) -->
+<br />
+<br />
+
+<h3 align="center">🧸 SNS 🧸</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>&nbsp
+</p>
+
 <br />
 <br />
 
