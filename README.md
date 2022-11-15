@@ -1,12 +1,11 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=slice&&height=300&section=header&text=YoungMinYoon&FontSize=90) -->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=YoungMinYoon&fontSize=90)
-
-<br />
-
-<h4 align="center"></h4>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YoungMinYoon&fontSize=50" />  
+</p>
 
 <br />
+
+<h4 align="center">description</h4>
+
 <br />
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
