@@ -14,7 +14,7 @@
 ## 💼 Career
 | Date | Organization | Job | Team |
 | - | - | - | - |
-| 2021.10 ~ *ing* | Electree | Software Engineer | |
+| 2021.10 ~ 2023.01 | Electree | Software Engineer | |
 
 <br />
 
