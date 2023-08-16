@@ -6,10 +6,10 @@
   
 ✨ *For More Info...* **[PORTFOLIO]()** | **[BLOG]()** | **[RESUME]()**
  
-**레몬아이티** <sub><sup>Software Engineer (FE developer) (2023.08 ~ now)</sup></sub>  
+**레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ now)</sup></sub>  
 
 ---
-**Electree** <sub><sup>Software Engineer (FE developer) (2021.10 ~ 2023.01)</sup></sub> 
+**Electree** <sub><sup>Software Engineer - FE developer (2021.10 ~ 2023.01)</sup></sub> 
   
 <br>
 
