@@ -4,7 +4,7 @@
 [![Vue3 Badge](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)](https://vuejs.org/)
 [![TypeScript Badge](https://img.shields.io/badge/Typescript-235A97?style=flat-square&logo=Typescript&logoColor=white)](https://www.typescriptlang.org/)
   
-✨ *For More Info...* **[PORTFOLIO](https://yoonyoungmin.netlify.app)** | **[RESUME](file:///Users/youngmin/Documents/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%87%E1%85%A9/resume.pdf)**
+✨ *For More Info...* **[PORTFOLIO](https://yoonyoungmin.netlify.app)** | **[RESUME](https://drive.google.com/file/d/17kFnSrcbG-wkLxd4oUvffNszjGSJR3Vd/view?usp=sharing)**
  
 **레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ now)</sup></sub>  
 
