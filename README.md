@@ -8,9 +8,3 @@
  
 **레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ 2024.08)</sup></sub>  
 **Electree** <sub><sup>Software Engineer - FE developer (2021.10 ~ 2023.01)</sup></sub> 
-
-<div>
-  
-  ![github stats](https://github-readme-stats.vercel.app/api?username=yym1623&show_icons=true&theme=radical)
-  
-</div>
