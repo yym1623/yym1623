@@ -6,7 +6,7 @@
   
 ✨ *For More Info...* **[PORTFOLIO](https://yoonyoungmin.netlify.app)** | **[RESUME](https://www.figma.com/file/03Le7GFj5cEVf3UOxmQcRE/%EC%9C%A4%EC%98%81%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=0%3A1&mode=design&t=0t8WvqDlul2v9ILp-1)** | **[BLOG](https://young-min.netlify.app/)**
  
-**레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ now)</sup></sub>  
+**레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ 2024.08)</sup></sub>  
 
 ---
 **Electree** <sub><sup>Software Engineer - FE developer (2021.10 ~ 2023.01)</sup></sub> 
