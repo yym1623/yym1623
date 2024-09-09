@@ -8,4 +8,4 @@
 
 **(주)피어라인** <sub><sup>Software Engineer - FE developer (2024.09 ~ now)</sup></sub>  
 **(주)레몬아이티** <sub><sup>Software Engineer - FE developer (2023.08 ~ 2024.08)</sup></sub>  
-**Electree** <sub><sup>Software Engineer - FE developer (2021.10 ~ 2023.01)</sup></sub> 
+**(주)Electree** <sub><sup>Software Engineer - FE developer (2021.10 ~ 2023.01)</sup></sub> 
